@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Source-Private-181717?style=flat-square&logo=github" />
 </p>
 
-<h1 align="center">
-  <img src="assets/ghost.svg" alt="CueInk Logo" width="48" height="48" style="vertical-align: middle; margin-right: 12px;" />
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-bottom: 10px;">
+  <img src="assets/ghost.svg" alt="CueInk Logo" width="48" height="48" />
   CueInk
 </h1>
 
