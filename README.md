@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="assets/ghost.svg" width="48" height="48" style="vertical-align: middle; margin-right: 12px;" />
+  <img src="assets/ghost.svg" alt="CueInk Logo" width="48" height="48" style="vertical-align: middle; margin-right: 12px;" />
   CueInk
 </h1>
 
