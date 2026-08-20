@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="48" height="48">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E4EFFB"/>
+    </linearGradient>
+    <linearGradient id="eyeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1785DF"/>
+      <stop offset="100%" stop-color="#0867BE"/>
+    </linearGradient>
+  </defs>
+  <path d="M50 10 C30 10 15 22 15 45 C15 60 20 70 32 80 C32 85 35 90 40 90 C46 90 50 82 50 82 C50 82 54 90 60 90 C65 90 68 85 68 80 C80 70 85 60 85 45 C85 22 70 10 50 10 Z" fill="url(#bodyGrad)" stroke="#147DD5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M38 48 Q44 36 52 48" fill="none" stroke="url(#eyeGrad)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M62 48 Q56 36 48 48" fill="none" stroke="url(#eyeGrad)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38 48 L38 48" fill="none" stroke="#045CAB" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M62 48 L62 48" fill="none" stroke="#045CAB" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>
