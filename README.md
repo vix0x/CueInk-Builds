@@ -4,7 +4,10 @@
   <img src="https://img.shields.io/badge/Source-Private-181717?style=flat-square&logo=github" />
 </p>
 
-<h1 align="center">CueInk</h1>
+<h1 align="center">
+  <img src="assets/ghost.svg" width="48" height="48" style="vertical-align: middle; margin-right: 12px;" />
+  CueInk
+</h1>
 
 <p align="center">
   <i>The invisible browsing layer. Always on top, always ahead.</i>
