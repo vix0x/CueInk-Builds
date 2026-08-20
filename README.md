@@ -49,3 +49,17 @@ text
   <i>Want early access to CueInk builds, feature previews, or direct support?</i><br/>
   Join our Discord to connect with the community and the development team.
 </p>
+
+
+
+## 🖥️ Interface Preview
+
+<p align="center">
+  <i>Start Page</i><br/>
+  <img src="assets/start-page.png" alt="CueInk Start Page" width="85%" />
+</p>
+
+<p align="center">
+  <i>Connectivity & Network Settings</i><br/>
+  <img src="assets/connectivity-tab.png" alt="CueInk Connectivity Tab" width="85%" />
+</p>
