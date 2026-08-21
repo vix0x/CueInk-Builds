@@ -57,12 +57,6 @@ text
 
 ## 🖥️ Interface Preview
 
-<p align="center">
-  <i>Start Page</i><br/>
-  <img src="assets/start-page.png" alt="CueInk Start Page" width="85%" />
-</p>
-
-<p align="center">
-  <i>Connectivity & Network Settings</i><br/>
-  <img src="assets/connectivity-tab.png" alt="CueInk Connectivity Tab" width="85%" />
-</p>
+| Start Page | With Sidebar | Create Space |
+| :---: | :---: | :---: |
+| <img src="assets/start-page.png" alt="Start Page" width="100%" /> | <img src="assets/sidebar.png" alt="Sidebar" width="100%" /> | <img src="assets/create-space.png" alt="Create Space" width="100%" /> |
