@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <i>The invisible browsing layer. Always on top, always ahead.</i>
+  <i>Privacy-focused browsing. Always on top, always private.</i>
 </p>
 
 ---
@@ -22,19 +22,19 @@
 
 text
 
-> 🕰️ **macOS Support**: Actively maintained and fully functional internally. A public release is questionable; stay tuned.
+> 🕰️ **macOS Support**: Actively maintained and fully functional internally. A public release is planned; stay tuned.
 
 ---
 
 > ### 🚀 Quick Start
 > 
 > **Windows**  
-> Run `CueInk` as Administrator on the very first launch to initialize the Ink Network engine.
+> Run `CueInk` as Administrator on the very first launch to initialize the network engine.
 
 ---
 
 <p align="center">
-  <strong>Devloped & Maintained</strong><br/>
+  <strong>Developed & Maintained</strong><br/>
   by Carmen & Player
 </p>
 
@@ -49,14 +49,20 @@ text
 </p>
 
 <p align="center">
-  <i>Want early access to CueInk builds, feature previews, or direct support?</i><br/>
+  <i>Want early access to builds, feature previews, or direct support?</i><br/>
   Join our Discord to connect with the community and the development team.
 </p>
 
-
+---
 
 ## 🖥️ Interface Preview
 
 | Start Page | With Sidebar | Create Space |
 | :---: | :---: | :---: |
 | <img src="assets/start-page.png" alt="Start Page" width="100%" /> | <img src="assets/sidebar.png" alt="Sidebar" width="100%" /> | <img src="assets/create-space.png" alt="Create Space" width="100%" /> |
+
+---
+
+### 📜 Disclaimer
+
+CueInk is a privacy tool designed for personal focus and multitasking. We do not endorse or condone any use of the software that violates the terms of service of any platform, institution, or organization. Users are responsible for ensuring their use complies with all applicable rules and laws.
